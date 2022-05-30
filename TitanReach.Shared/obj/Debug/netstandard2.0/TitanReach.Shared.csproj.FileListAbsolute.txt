@@ -1,0 +1,16 @@
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\bin\Debug\netstandard2.0\TitanReach.Shared.deps.json
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\bin\Debug\netstandard2.0\TitanReach.Shared.dll
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\bin\Debug\netstandard2.0\TitanReach.Shared.pdb
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.csprojAssemblyReference.cache
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.AssemblyInfoInputs.cache
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.AssemblyInfo.cs
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.dll
+C:\Users\Hayden\wkspaces\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.pdb
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.csproj.AssemblyReference.cache
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.GeneratedMSBuildEditorConfig.editorconfig
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.AssemblyInfoInputs.cache
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.AssemblyInfo.cs
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.csproj.CoreCompileInputs.cache
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.dll
+H:\TitanReach\TitanReach.Shared\obj\Debug\netstandard2.0\TitanReach.Shared.pdb

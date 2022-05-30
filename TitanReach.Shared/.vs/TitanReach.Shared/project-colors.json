@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e440caa-b263-4294-ae5c-896004aedadb": {
+      "ProjectGuid": "2e440caa-b263-4294-ae5c-896004aedadb",
+      "DisplayName": "TitanReach.Shared",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

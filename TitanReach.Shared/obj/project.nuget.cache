@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dI70m04QvzDGYuo7gBrGwH+c4F8kzW4+hhusHoioYFRhR939CI1sE+IRwiEkpy8E1p8gt390sH0kpldPIbl0Jg==",
+  "success": true,
+  "projectFilePath": "H:\\TitanReach\\TitanReach.Shared\\TitanReach.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hayden\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.5\\microsoft.data.sqlite.core.5.0.5.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hayden\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

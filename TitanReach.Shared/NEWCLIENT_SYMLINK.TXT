@@ -1,0 +1,20 @@
+# Only modify this below line to the TitanReach folder which includes TitanReach.Shared/Client/Server
+$TR = "H:\TitanReach";
+
+$CLIENT = "$TR\TitanReach.NewClient\TitanReach.Client\Assets\Databases";
+$SERVER = "$TR\TitanReach.Server\TitanReach_Server\bin\Debug\net5.0\Assets\Databases";
+$SHARED = "$TR\TitanReach.Shared\Databases";
+
+if (Test-Path $CLIENT) 
+{
+  Remove-Item "$CLIENT" -Recurse
+}
+
+New-Item -ItemType SymbolicLink -Path "$CLIENT" -Target "$SHARED";
+
+if (Test-Path $SERVER) 
+{
+  Remove-Item "$SERVER" -Recurse
+}
+
+New-Item -ItemType SymbolicLink -Path "$SERVER" -Target "$SHARED";

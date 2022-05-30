@@ -1,0 +1,1053 @@
+2021-08-03 16:33:08 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-03 16:33:15 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-03 16:33:20 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-03 16:33:20 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-03 16:33:20 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-03 16:33:20 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-03 16:33:20 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-03 16:33:20 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-03 16:33:20 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-03 16:33:20 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-03 20:43:01 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-03 20:43:09 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-03 20:43:14 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-03 20:43:14 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-03 20:43:14 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-03 20:43:14 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-03 20:43:14 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-03 20:43:14 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-03 20:43:14 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-03 20:43:14 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-04 17:29:37 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-04 17:29:45 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-04 17:29:51 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-04 17:29:51 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-04 17:29:51 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-04 17:29:51 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-04 17:29:51 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-04 17:29:51 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-04 17:29:51 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-04 17:29:51 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-04 17:44:47 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-04 17:44:56 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-04 17:45:03 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-04 17:45:03 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-04 17:45:03 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-04 17:45:03 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-04 17:45:03 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-04 17:45:03 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-04 17:45:03 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-04 17:45:03 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-04 22:55:46 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-04 23:09:39 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-04 23:09:47 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-04 23:09:53 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-04 23:09:53 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-04 23:09:53 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-04 23:09:53 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-04 23:09:53 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-04 23:09:53 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-04 23:09:53 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-04 23:09:53 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-04 23:11:29 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-04 23:11:37 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-04 23:11:42 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-04 23:11:42 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-04 23:11:42 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-04 23:11:42 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-04 23:11:42 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-04 23:11:42 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-04 23:11:42 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-04 23:11:42 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 16:32:24 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 16:32:28 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 16:32:33 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 16:32:33 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 16:32:33 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 16:32:33 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 16:32:33 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 16:32:33 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 16:32:33 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 16:32:33 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 20:45:39 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 20:45:42 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 20:45:48 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 20:45:48 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 20:45:48 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 20:45:48 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 20:45:48 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 20:45:48 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 20:45:48 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 20:45:48 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 20:51:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 20:51:38 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 20:51:44 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 20:51:44 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 20:51:44 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 20:51:44 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 20:51:44 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 20:51:44 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 20:51:44 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 20:51:44 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 21:10:14 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 21:10:18 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 21:10:23 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 21:10:23 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 21:10:23 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 21:10:23 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 21:10:23 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 21:10:23 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 21:10:23 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 21:10:23 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 21:22:48 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 21:22:56 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 21:23:02 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 21:23:02 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 21:23:02 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 21:23:02 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 21:23:02 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 21:23:02 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 21:23:02 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 21:23:02 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 21:31:31 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 21:31:39 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 21:31:44 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 21:31:44 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 21:31:44 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 21:31:44 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 21:31:44 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 21:31:44 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 21:31:44 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 21:31:44 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 21:38:54 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 21:38:58 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 21:39:03 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 21:39:03 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 21:39:03 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 21:39:03 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 21:39:03 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 21:39:03 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 21:39:03 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 21:39:03 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 21:54:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 21:54:43 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 21:54:49 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 21:54:49 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 21:54:49 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 21:54:49 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 21:54:49 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 21:54:49 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 21:54:49 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 21:54:49 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:05:24 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:05:32 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:05:41 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:05:41 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:05:41 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:05:41 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:05:41 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:05:41 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:05:41 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:05:41 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:10:59 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:11:02 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:11:07 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:11:07 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:11:07 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:11:07 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:11:07 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:11:07 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:11:07 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:11:07 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:12:23 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:12:31 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:13:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:13:59 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:14:33 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:15:06 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:15:21 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:15:43 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:16:00 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:17:14 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:17:52 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:18:00 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:18:06 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:18:06 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:18:06 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:18:06 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:18:06 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:18:06 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:18:06 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:18:06 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:27:38 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:27:45 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:27:49 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:27:54 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:27:54 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:27:54 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:27:54 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:27:54 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:27:54 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:27:54 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:27:54 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:29:57 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:30:01 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:30:06 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:30:06 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:30:06 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:30:06 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:30:06 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:30:06 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:30:06 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:30:06 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:32:51 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:32:55 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:33:00 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:33:00 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:33:00 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:33:00 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:33:00 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:33:00 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:33:00 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:33:00 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:34:42 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:34:45 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:34:50 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:34:50 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:34:50 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:34:50 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:34:50 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:34:50 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:34:50 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:34:50 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:37:31 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:37:39 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:37:44 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:37:44 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:37:44 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:37:44 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:37:44 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:37:44 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:37:44 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:37:44 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:39:53 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:40:01 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:40:06 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:40:06 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:40:06 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:40:06 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:40:06 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:40:06 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:40:06 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:40:06 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:51:19 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:51:26 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:51:48 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:51:56 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:52:01 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:52:01 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:52:01 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:52:01 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:52:01 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:52:01 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:52:01 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:52:01 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-05 22:52:23 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-05 22:52:31 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-05 22:52:36 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-05 22:52:36 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-05 22:52:36 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-05 22:52:36 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-05 22:52:36 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-05 22:52:36 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-05 22:52:36 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-05 22:52:36 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-10 16:11:13 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:11:17 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-10 16:11:23 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-10 16:11:23 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-10 16:11:23 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-10 16:11:23 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-10 16:11:23 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-10 16:11:23 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-10 16:11:23 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-10 16:11:23 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-10 16:13:13 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:13:19 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-10 16:13:25 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-10 16:13:25 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-10 16:13:25 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-10 16:13:25 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-10 16:13:25 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-10 16:13:25 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-10 16:13:25 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-10 16:13:25 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-10 16:23:13 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:23:23 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-10 16:23:28 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-10 16:23:28 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-10 16:23:28 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-10 16:23:28 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-10 16:23:28 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-10 16:23:28 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-10 16:23:28 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-10 16:23:28 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-10 16:23:36 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:24:03 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:24:31 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:25:29 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:25:57 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:27:56 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:28:18 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:28:42 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:32:32 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:42:22 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:42:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:44:07 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 16:44:11 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-10 16:44:19 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-10 16:44:19 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-10 16:44:19 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-10 16:44:19 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-10 16:44:19 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-10 16:44:19 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-10 16:44:19 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-10 16:44:19 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-10 19:15:55 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-10 19:16:03 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-10 19:16:08 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-10 19:16:08 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-10 19:16:08 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-10 19:16:08 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-10 19:16:08 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-10 19:16:08 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-10 19:16:08 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-10 19:16:08 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-12 17:23:01 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-12 17:23:10 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-12 17:23:15 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-12 17:23:15 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-12 17:23:15 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-12 17:23:15 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-12 17:23:15 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-12 17:23:15 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-12 17:23:15 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-12 17:23:15 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-14 17:58:43 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-14 17:58:52 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-14 17:58:57 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-14 17:58:57 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-14 17:58:57 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-14 17:58:57 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-14 17:58:57 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-14 17:58:57 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-14 17:58:57 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-14 17:58:57 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-14 18:28:43 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-14 18:28:51 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-14 18:28:57 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-14 18:28:57 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-14 18:28:57 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-14 18:28:57 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-14 18:28:57 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-14 18:28:57 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-14 18:28:57 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-14 18:28:57 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-28 17:06:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-28 17:06:44 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-28 17:06:50 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-28 17:06:50 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-28 17:06:50 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-28 17:06:50 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-28 17:06:50 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-28 17:06:50 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-28 17:06:50 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-28 17:06:50 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-08-30 17:25:36 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-08-30 17:25:44 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-08-30 17:25:50 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-08-30 17:25:50 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-08-30 17:25:50 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-08-30 17:25:50 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-08-30 17:25:50 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-08-30 17:25:50 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-08-30 17:25:50 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-08-30 17:25:50 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-10 21:30:26 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-10 21:30:30 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-10-10 21:30:37 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-10-10 21:30:37 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-10-10 21:30:37 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-10-10 21:30:37 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-10-10 21:30:37 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-10-10 21:30:37 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-10-10 21:30:37 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-10-10 21:30:37 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-11 13:08:43 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-11 13:08:46 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-10-11 13:08:52 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-10-11 13:08:52 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-10-11 13:08:52 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-10-11 13:08:52 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-10-11 13:08:52 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-10-11 13:08:52 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-10-11 13:08:52 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-10-11 13:08:52 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-11 15:55:28 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-11 15:55:36 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-10-11 15:55:42 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-10-11 15:55:42 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-10-11 15:55:42 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-10-11 15:55:42 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-10-11 15:55:42 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-10-11 15:55:42 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-10-11 15:55:42 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-10-11 15:55:42 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-12 17:24:10 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-12 17:24:19 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-10-12 17:24:25 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-10-12 17:24:25 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-10-12 17:24:25 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-10-12 17:24:25 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-10-12 17:24:25 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-10-12 17:24:25 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-10-12 17:24:25 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-10-12 17:24:25 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-21 19:48:11 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-21 19:48:16 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-10-21 19:48:22 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-10-21 19:48:22 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-10-21 19:48:22 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-10-21 19:48:22 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-10-21 19:48:22 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-10-21 19:48:22 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-10-21 19:48:22 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-10-21 19:48:22 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-28 14:15:25 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-28 14:15:33 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-10-28 14:15:40 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-10-28 14:15:40 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-10-28 14:15:40 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-10-28 14:15:40 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-10-28 14:15:40 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-10-28 14:15:40 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-10-28 14:15:40 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-10-28 14:15:40 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-10-29 15:13:56 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-10-29 15:21:04 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-11-01 18:11:59 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-11-01 18:12:08 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-11-01 18:12:14 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-11-01 18:12:14 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-11-01 18:12:14 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-11-01 18:12:14 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-11-01 18:12:14 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-11-01 18:12:14 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-11-01 18:12:14 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-11-01 18:12:14 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-11-09 20:02:05 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-11-09 20:02:09 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-11-22 13:41:19 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-11-22 13:41:27 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-11-22 13:41:34 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-11-22 13:41:34 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-11-22 13:41:34 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-11-22 13:41:34 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-11-22 13:41:34 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-11-22 13:41:34 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-11-22 13:41:34 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-11-22 13:41:34 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-11-22 17:37:06 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-11-22 17:37:14 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-11-22 17:37:21 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-11-22 17:37:21 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-11-22 17:37:21 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-11-22 17:37:21 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-11-22 17:37:21 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-11-22 17:37:21 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-11-22 17:37:21 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-11-22 17:37:21 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-11 14:44:38 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-11 14:44:46 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-11 14:44:52 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-11 14:44:52 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-11 14:44:52 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-11 14:44:52 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-11 14:44:52 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-11 14:44:52 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-11 14:44:52 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-11 14:44:52 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-12 23:20:36 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-12 23:20:45 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-12 23:20:51 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-12 23:20:51 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-12 23:20:51 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-12 23:20:51 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-12 23:20:51 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-12 23:20:51 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-12 23:20:51 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-12 23:20:51 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-13 00:13:29 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-13 00:13:33 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-13 00:13:39 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-13 00:13:39 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-13 00:13:39 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-13 00:13:39 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-13 00:13:39 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-13 00:13:39 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-13 00:13:39 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-13 00:13:39 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-14 17:19:56 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-14 17:20:05 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-14 17:20:13 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-14 17:20:13 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-14 17:20:13 [TRACE] [enet_host_create:3940] Socket creation: Cleaning up a old socket.
+2021-12-14 17:20:13 [TRACE] [enet_socket_destroy:5015] Socket destroyed
+2021-12-14 17:20:13 [ERROR] [enet_host_create:3944] Socket creation: Binding to socket failed with error code -1
+2021-12-14 17:20:48 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-14 17:20:56 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-14 17:21:03 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-14 17:21:03 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-14 17:21:03 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-14 17:21:03 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-14 17:21:03 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-14 17:21:03 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-14 17:21:03 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-14 17:21:03 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-16 22:19:12 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-16 22:19:21 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-16 22:19:27 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-16 22:19:27 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-16 22:19:27 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-16 22:19:27 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-16 22:19:27 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-16 22:19:27 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-16 22:19:27 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-16 22:19:27 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-16 22:31:57 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-16 22:34:51 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-16 22:34:59 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-16 22:35:05 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-16 22:35:05 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-16 22:35:05 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-16 22:35:05 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-16 22:35:05 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-16 22:35:05 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-16 22:35:05 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-16 22:35:05 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-16 23:52:06 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-16 23:52:14 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-16 23:52:20 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-16 23:52:20 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-16 23:52:20 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-16 23:52:20 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-16 23:52:20 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-16 23:52:20 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-16 23:52:20 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-16 23:52:20 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-18 23:56:03 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-18 23:56:11 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-18 23:56:20 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-18 23:56:20 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-18 23:56:20 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-18 23:56:20 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-18 23:56:20 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-18 23:56:20 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-18 23:56:20 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-18 23:56:20 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-19 00:02:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-19 00:02:43 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-19 00:02:48 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-19 00:02:48 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-19 00:02:48 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-19 00:02:48 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-19 00:02:48 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-19 00:02:48 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-19 00:02:48 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-19 00:02:48 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-22 22:34:59 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-22 22:35:08 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-22 22:35:14 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-22 22:35:14 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-22 22:35:14 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-22 22:35:14 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-22 22:35:14 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-22 22:35:14 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-22 22:35:14 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-22 22:35:14 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-25 20:40:14 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-25 20:40:22 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-25 20:40:28 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-25 20:40:28 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-25 20:40:28 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-25 20:40:28 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-25 20:40:28 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-25 20:40:28 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-25 20:40:28 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-25 20:40:28 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2021-12-27 14:41:28 [TRACE] [enet_initialize:4806] Windows: ENet init
+2021-12-27 14:41:37 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2021-12-27 14:41:44 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2021-12-27 14:41:44 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2021-12-27 14:41:44 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2021-12-27 14:41:44 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2021-12-27 14:41:44 [TRACE] [enet_host_create:3963] Address: Setting up
+2021-12-27 14:41:44 [TRACE] [enet_host_create:3967] Channels: Setting up
+2021-12-27 14:41:44 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2021-12-27 14:41:44 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 17:44:48 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 17:44:56 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 17:45:02 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 17:45:02 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 17:45:02 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 17:45:02 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 17:45:02 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 17:45:02 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 17:45:02 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 17:45:02 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 17:51:46 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 17:51:54 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 17:51:59 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 17:51:59 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 17:51:59 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 17:51:59 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 17:51:59 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 17:51:59 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 17:51:59 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 17:51:59 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 17:54:20 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 17:54:28 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 17:54:34 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 17:54:34 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 17:54:34 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 17:54:34 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 17:54:34 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 17:54:34 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 17:54:34 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 17:54:34 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 17:56:46 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 17:56:54 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 17:57:00 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 17:57:00 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 17:57:00 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 17:57:00 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 17:57:00 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 17:57:00 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 17:57:00 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 17:57:00 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 17:58:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 17:58:43 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 17:58:48 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 17:58:48 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 17:58:48 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 17:58:48 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 17:58:48 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 17:58:48 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 17:58:48 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 17:58:48 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 17:59:51 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 17:59:59 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 18:00:04 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 18:00:04 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 18:00:04 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 18:00:04 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 18:00:04 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 18:00:04 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 18:00:04 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 18:00:04 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 18:27:26 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 18:27:34 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 18:30:08 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 18:30:16 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 18:30:21 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 18:30:21 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 18:30:21 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 18:30:21 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 18:30:21 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 18:30:21 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 18:30:21 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 18:30:21 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:01:50 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:01:58 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:02:04 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:02:04 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:02:04 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:02:04 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:02:04 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:02:04 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:02:04 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:02:04 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:06:16 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:08:01 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:08:09 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:08:15 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:08:15 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:08:15 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:08:15 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:08:15 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:08:15 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:08:15 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:08:15 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:09:14 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:11:31 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:11:39 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:11:47 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:11:47 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:11:47 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:11:47 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:11:47 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:11:47 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:11:47 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:11:47 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:19:05 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:19:14 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:19:20 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:19:20 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:19:20 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:19:20 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:19:20 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:19:20 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:19:20 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:19:20 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:21:18 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:21:26 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:21:33 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:21:33 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:21:33 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:21:33 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:21:33 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:21:33 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:21:33 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:21:33 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:23:47 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:23:55 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:24:01 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:24:01 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:24:01 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:24:01 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:24:01 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:24:01 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:24:01 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:24:01 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:26:41 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:26:50 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:26:55 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:26:55 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:26:55 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:26:55 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:26:55 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:26:55 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:26:55 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:26:55 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:28:48 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:28:56 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:29:13 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:29:21 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:29:27 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:29:27 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:29:27 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:29:27 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:29:27 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:29:27 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:29:27 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:29:27 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:30:29 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:30:37 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:30:45 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:30:45 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:30:45 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:30:45 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:30:45 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:30:45 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:30:45 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:30:45 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:34:20 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:34:28 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:34:35 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:34:35 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:34:35 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:34:35 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:34:35 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:34:35 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:34:35 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:34:35 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 19:45:24 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 19:45:32 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 19:45:37 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 19:45:37 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 19:45:37 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 19:45:37 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 19:45:37 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 19:45:37 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 19:45:37 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 19:45:37 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:04:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:04:44 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:04:49 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:04:49 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:04:49 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:04:49 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:04:49 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:04:49 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:04:49 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:04:49 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:16:07 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:16:15 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:16:22 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:16:22 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:16:22 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:16:22 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:16:22 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:16:22 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:16:22 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:16:22 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:20:02 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:20:10 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:20:17 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:20:17 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:20:17 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:20:17 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:20:17 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:20:17 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:20:17 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:20:17 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:28:16 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:28:24 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:28:32 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:28:32 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:28:32 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:28:32 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:28:32 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:28:32 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:28:32 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:28:32 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:39:49 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:39:57 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:40:04 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:40:04 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:40:04 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:40:04 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:40:04 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:40:04 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:40:04 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:40:04 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:45:31 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:45:39 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:45:45 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:45:45 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:45:45 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:45:45 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:45:45 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:45:45 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:45:45 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:45:45 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 20:53:32 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 20:53:40 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 20:53:46 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 20:53:46 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 20:53:46 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 20:53:46 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 20:53:46 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 20:53:46 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 20:53:46 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 20:53:46 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:00:47 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:00:55 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:01:01 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:01:01 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:01:01 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:01:01 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:01:01 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:01:01 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:01:01 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:01:01 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:06:01 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:06:09 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:06:16 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:06:16 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:06:16 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:06:16 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:06:16 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:06:16 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:06:16 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:06:16 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:12:47 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:12:55 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:13:01 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:13:01 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:13:01 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:13:01 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:13:01 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:13:01 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:13:01 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:13:01 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:17:23 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:17:31 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:17:38 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:17:38 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:17:38 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:17:38 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:17:38 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:17:38 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:17:38 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:17:38 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:25:34 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:25:42 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:25:47 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:25:47 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:25:47 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:25:47 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:25:47 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:25:47 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:25:47 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:25:47 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:31:21 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:31:29 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:31:37 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:31:37 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:31:37 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:31:37 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:31:37 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:31:37 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:31:37 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:31:37 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:35:32 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:35:41 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:35:48 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:35:48 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:35:48 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:35:48 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:35:48 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:35:48 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:35:48 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:35:48 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 21:47:55 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 21:48:03 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 21:48:11 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 21:48:11 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 21:48:11 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 21:48:11 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 21:48:11 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 21:48:11 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 21:48:11 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 21:48:11 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 22:07:01 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 22:07:09 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 22:07:16 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 22:07:16 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 22:07:16 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 22:07:16 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 22:07:16 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 22:07:16 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 22:07:16 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 22:07:16 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 22:17:05 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 22:17:13 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 22:17:19 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 22:17:19 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 22:17:19 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 22:17:19 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 22:17:19 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 22:17:19 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 22:17:19 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 22:17:19 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 22:23:28 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 22:23:36 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 22:23:42 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 22:23:42 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 22:23:42 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 22:23:42 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 22:23:42 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 22:23:42 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 22:23:42 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 22:23:42 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 22:37:10 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 22:37:18 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 22:37:25 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 22:37:25 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 22:37:25 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 22:37:25 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 22:37:25 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 22:37:25 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 22:37:25 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 22:37:25 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 23:23:27 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 23:23:36 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 23:23:41 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 23:23:41 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 23:23:41 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 23:23:41 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 23:23:41 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 23:23:41 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 23:23:41 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 23:23:41 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-03 23:25:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-03 23:25:43 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-03 23:25:50 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-03 23:25:50 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-03 23:25:50 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-03 23:25:50 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-03 23:25:50 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-03 23:25:50 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-03 23:25:50 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-03 23:25:50 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-11 01:14:38 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-11 01:14:46 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-11 01:14:53 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-11 01:14:53 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-11 01:14:53 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-11 01:14:53 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-11 01:14:53 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-11 01:14:53 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-11 01:14:53 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-11 01:14:53 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-11 02:10:35 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-11 02:10:43 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-11 02:10:49 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-11 02:10:49 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-11 02:10:49 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-11 02:10:49 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-11 02:10:49 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-11 02:10:49 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-11 02:10:49 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-11 02:10:49 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-11 02:18:50 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-11 02:18:58 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-11 02:19:04 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-11 02:19:04 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-11 02:19:04 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-11 02:19:04 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-11 02:19:04 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-11 02:19:04 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-11 02:19:04 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-11 02:19:04 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-11 02:21:21 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-11 02:21:29 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-11 02:21:35 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-11 02:21:35 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-11 02:21:35 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-11 02:21:35 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-11 02:21:35 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-11 02:21:35 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-11 02:21:35 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-11 02:21:35 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-11 02:25:45 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-11 02:25:53 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-11 02:25:59 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-11 02:25:59 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-11 02:25:59 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-11 02:25:59 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-11 02:25:59 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-11 02:25:59 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-11 02:25:59 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-11 02:25:59 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.
+2022-01-17 16:41:15 [TRACE] [enet_initialize:4806] Windows: ENet init
+2022-01-17 16:41:23 [ERROR] [enet_address_set_hostname:4379] Getaddrinfo() returned an error
+2022-01-17 16:41:30 [TRACE] [enet_host_create:3902] Creating ENet host object.
+2022-01-17 16:41:30 [TRACE] [enet_host_create:3932] Socket creation: IPv4 & IPv6 dual stack mode
+2022-01-17 16:41:30 [TRACE] [enet_host_create:3951] Buffers: Setting up
+2022-01-17 16:41:30 [TRACE] [enet_host_create:3957] Socket: Setting up options
+2022-01-17 16:41:30 [TRACE] [enet_host_create:3963] Address: Setting up
+2022-01-17 16:41:30 [TRACE] [enet_host_create:3967] Channels: Setting up
+2022-01-17 16:41:30 [TRACE] [enet_host_create:4002] Startup: Clearing queues
+2022-01-17 16:41:30 [TRACE] [enet_host_create:4019] Startup: Complete. Let's do this.

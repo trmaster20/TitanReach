@@ -1,0 +1,4 @@
+repository "tr_server@Square_Root_Studios@cloud"
+  path "/"
+    smartbranch "/main/Dev"     
+     
